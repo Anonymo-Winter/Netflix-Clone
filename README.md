@@ -1,2 +1,1 @@
-# Netflix-Clone
- Fully Responsive Netflex Clone Made as a practice.
+Fully Responsive Netflix-clone using HTML,CSS and JS
